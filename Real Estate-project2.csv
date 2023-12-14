@@ -1,0 +1,76 @@
+Property ID,Location,Property Size (Sq ft),Bedrooms,Bathrooms,Amenities,Sale Price (INR)
+1,Mumbai,2500,4,3,"Garage, Garden, Pool",25000000
+2,Delhi,2000,3,2,Garden,18000000
+3,Bangalore,1800,2,2,"Garage, Pool",15000000
+4,Kolkata,3000,5,4,"Garage, Pool, Garden",32000000
+5,Chennai,2200,3,2,Pool,20000000
+6,Hyderabad,2700,4,3,"Garage, Garden",22000000
+7,Pune,1900,2,2,Garden,16000000
+8,Ahmedabad,2100,3,2,"Garage, Pool",17500000
+9,Jaipur,1800,2,1,-,13500000
+10,Lucknow,2400,4,3,"Garden, Pool",23000000
+11,Chandigarh,2600,3,2,"Garage, Gym",19000000
+12,Kochi,2000,2,2,"Pool, Garden",15500000
+13,Indore,2200,3,2,"Garage, Pool, Tennis Court",21000000
+14,Surat,2800,4,3,"Garden, Pool, Home Theater",24000000
+15,Visakhapatnam,1950,3,2,"Garage, Garden, Playground",17000000
+16,Bhopal,1850,2,1,-,13000000
+17,Coimbatore,2050,3,2,"Pool, Garden, Yoga Studio",18000000
+18,Nagpur,2400,4,3,"Garage, Pool, Study Room",22500000
+19,Kanpur,2100,3,2,"Garden, Pool, Barbecue Area",18500000
+20,Varanasi,1750,2,1,-,12500000
+21,Ranchi,2600,4,3,"Garage, Pool, Jacuzzi, Home Office",24000000
+22,Patna,2300,3,2,"Garden, Pool, Mini Theater",20500000
+23,Guwahati,2150,2,1,-,14000000
+24,Thiruvananthapuram,1950,3,2,"Pool, Garden, Library",17500000
+25,Jodhpur,1800,2,1,-,12000000
+26,Ludhiana,2400,3,2,"Garden, Pool",18500000
+27,Allahabad,2200,4,3,"Garage, Garden",15500000
+28,Rajkot,2100,3,2,"Pool, Gym",17500000
+29,Meerut,2300,4,3,"Garage, Pool, Study Room",19500000
+30,Jamshedpur,2000,3,2,Garden,16000000
+31,Raipur,2400,4,3,"Pool, Garden, Home Theater",22000000
+32,Dhanbad,1800,2,2,-,13500000
+33,Amritsar,1950,3,2,"Garage, Garden, Playground",17000000
+34,Warangal,2200,4,3,"Garden, Pool",18500000
+35,Aligarh,2050,3,2,"Pool, Garden, Barbecue Area",18000000
+36,Bikaner,1900,2,1,-,12500000
+37,Guntur,2100,3,2,"Garage, Pool, Yoga Studio",17000000
+38,Gorakhpur,2250,4,3,"Garden, Pool, Home Office",20000000
+39,Saharanpur,2000,3,2,"Garage, Garden, Tennis Court",17500000
+40,Bhatinda,1850,2,1,-,12000000
+41,Tiruchirappalli,2100,3,2,"Garden, Pool, Library",18000000
+42,Hisar,2300,4,3,"Garage, Garden, Jacuzzi",19000000
+43,Bilaspur,1950,3,2,"Pool, Gym",16500000
+44,Ranchi,2400,4,3,"Garden, Pool, Mini Theater",22000000
+45,Bhagalpur,1800,2,1,-,13000000
+46,Udaipur,2200,3,2,"Garden, Pool",17500000
+47,Mathura,2400,4,3,"Garage, Garden, Study Room",20000000
+48,Muzaffarnagar,1950,3,2,"Pool, Gym",16500000
+49,Shahjahanpur,1800,2,1,-,13000000
+50,Jalandhar,2050,3,2,"Garden, Pool, Yoga Studio",18000000
+51,Bokaro,2100,3,2,"Garage, Pool",17500000
+52,Siliguri,2300,4,3,"Garden, Pool, Home Office",19500000
+53,Durgapur,1950,3,2,"Garage, Garden, Playground",17000000
+54,Asansol,1800,2,1,-,13500000
+55,Ajmer,2100,3,2,"Garden, Pool, Tennis Court",18000000
+56,Gulbarga,2450,4,3,"Garage, Pool, Gym",20500000
+57,Kurnool,2250,3,2,"Pool, Garden, Study Room",19000000
+58,Nanded,2000,3,2,"Garage, Garden, Yoga Studio",17500000
+59,Bharatpur,1800,2,1,-,13000000
+60,Belgaum,2100,3,2,"Garden, Pool, Home Theater",18500000
+61,Sangli,2400,4,3,"Garage, Garden, Library",21000000
+62,Bhilwara,1950,3,2,"Pool, Gym, Study Room",17500000
+63,Hapur,1800,2,1,-,12500000
+64,Kota,2050,3,2,"Garden, Pool, Barbecue Area",18000000
+65,Korba,2100,3,2,"Garage, Pool, Mini Theater",18500000
+66,Bhavnagar,1900,2,1,-,13000000
+67,Rourkela,2150,3,2,"Pool, Gym, Home Office",18500000
+68,Rohtak,2300,4,3,"Garden, Pool, Yoga Studio",20000000
+69,Warangal,2200,3,2,"Garage, Garden, Home Theater",19500000
+70,Meerut,1950,3,2,"Pool, Gym, Study Room",17500000
+71,Silchar,1800,2,1,-,12000000
+72,Port Blair,2100,3,2,"Garden, Pool, Library",18500000
+73,Itanagar,2400,4,3,"Garage, Garden, Home Office",21000000
+74,Panipat,1950,3,2,"Pool, Gym, Study Room",17500000
+75,Haldwani,1800,2,1,-,12500000
